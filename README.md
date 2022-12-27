@@ -83,4 +83,4 @@
 ###
 
 # LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/MorgDzh?theme=Gotham&font=Comfortaa)
+![LeetCode Stats](https://leetcard.jacoblin.cool/MorgDzh?theme=nord&font=Comfortaa)
