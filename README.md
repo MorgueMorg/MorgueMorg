@@ -84,8 +84,11 @@
 
 <br clear="both">
 
-<h3 align="center">LeetCode</h3>
+<h2 align="center">LeetCode</h2>
 
 ###
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/MorgDzh?theme=nord&font=Comfortaa)
+<p align="center">
+  <a href="https://leetcode.com/MorgDzh/" target="_blank">
+    <img title="Morg's LeetCode Stats" alt="Morg's LeetCode Stats" src="https://leetcard.jacoblin.cool/MorgDzh?theme=nord&font=Comfortaa&ext=activity" />
+  </a>
+</p>
