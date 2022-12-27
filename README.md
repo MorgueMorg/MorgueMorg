@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">⚙️  GitHub Analytics</h3>
+<h3 align="left">⚙️  GitHub Analytics:</h3>
 
 ###
 
@@ -84,11 +84,11 @@
 
 <br clear="both">
 
-<h2 align="center">LeetCode</h2>
+<h2 align="center">LeetCode :basecampy:</h2>
 
 ###
 <p align="center">
   <a href="https://leetcode.com/MorgDzh/" target="_blank">
-    <img title="Morg's LeetCode Stats" alt="Morg's LeetCode Stats" src="https://leetcard.jacoblin.cool/MorgDzh?theme=nord&font=Comfortaa&ext=activity" />
+    <img title="Morg's LeetCode Stats" alt="Morg's LeetCode Stats" src="https://leetcard.jacoblin.cool/MorgDzh?theme=nord&font=Comfortaa" />
   </a>
 </p>
