@@ -82,5 +82,10 @@
 
 ###
 
-# LeetCode
+<br clear="both">
+
+<h3 align="center">LeetCode</h3>
+
+###
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MorgDzh?theme=nord&font=Comfortaa)
