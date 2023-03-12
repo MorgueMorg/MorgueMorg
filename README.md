@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/UX5AoZSXHzIF1PGU69/giphy.gif"  />
+<img align="right" height="200" src="https://cubeboxacademy.com/images/slider/benefits.gif"  />
 
 ###
 
