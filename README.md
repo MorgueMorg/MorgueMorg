@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="assets/images/lang_border.jpeg"  />
+  <img height="200" src="assets/images/languages.png"  />
 </div>
 
 ###
