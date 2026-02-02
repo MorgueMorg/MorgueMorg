@@ -11,6 +11,9 @@
 <h3 align="left">⚙️  GitHub Analytics:</h3>
 
 ###
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorgueMorg&theme=gotham" />
+</div>
 
 <div align="center">
   <p align="center">
@@ -89,5 +92,6 @@
 </div>
 
 ###
+
 
 
