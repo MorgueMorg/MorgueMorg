@@ -13,8 +13,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorgueMorg&theme=gotham" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorgueMorg&theme=gotham" />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorgueMorg&theme=gotham" height="150"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorgueMorg&theme=gotham" height="150"/>
+  </p>
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorgueMorg&theme=gotham" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorgueMorg&theme=gotham" /> -->
 
 <!-- 
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=MorgueMorg" height="150" alt="stats graph"  />
@@ -85,4 +89,5 @@
 </div>
 
 ###
+
 
